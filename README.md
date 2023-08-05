@@ -1,4 +1,4 @@
 # clase4
-- **__Working directory__** :first_quarter_moon:
-- **__Staging area__** 	:cyclone:
-- **__Rama__** :star2:
+- **_Working directory_** :first_quarter_moon:
+- **_Staging area_** 	:cyclone:
+- **_Rama_** :star2:
